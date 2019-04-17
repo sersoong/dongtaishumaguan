@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1555482366 source:d:\个人文件\songwl\桌面\动态数码管\dongtaishumaguan\dongtai\main.c
+	<mcs51/8051.h>
+	<string.h>
+
